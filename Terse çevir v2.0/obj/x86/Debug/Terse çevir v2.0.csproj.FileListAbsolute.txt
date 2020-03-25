@@ -1,0 +1,2 @@
+F:\04 - Yazılım\04 - Form Projeleri\30 Girilen İfadeyi Terse Çevir V2.0\Terse çevir v2.0\obj\x86\Debug\Terse çevir v2.0.exe
+F:\04 - Yazılım\04 - Form Projeleri\30 Girilen İfadeyi Terse Çevir V2.0\Terse çevir v2.0\obj\x86\Debug\Terse çevir v2.0.pdb
